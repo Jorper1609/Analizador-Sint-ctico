@@ -1,0 +1,5 @@
+{
+  "name": "Analizador Sintáctico",
+  "description": "Una aplicación web para analizar sintácticamente oraciones en español utilizando la IA de Gemini.",
+  "requestFramePermissions": []
+}
